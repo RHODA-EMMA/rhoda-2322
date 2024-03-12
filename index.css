@@ -1,0 +1,100 @@
+header {
+margin: 20px;
+padding-inline: 50px;
+color:honeydew;
+background-color: rgb(177, 28, 103);
+border-radius: 20px;
+font-size:xx-large;
+/* align-items: center; */
+
+}
+
+body{
+    background-image:url(my\ fruit\ 1.webp);
+    background-attachment: fixed;
+    backdrop-filter: 50px;
+}
+
+.menu{
+    background-position:center; 
+    background-color:rgb(4, 148, 4) ;
+    padding:50px;
+    margin: 20px;
+    border-radius: 30px;
+}
+
+.about{
+    background-color: rgb(5, 154, 174);
+    margin: 20px;
+    border: 20%;
+    border-radius:30px;
+    padding: 50px;
+}
+
+#reservation{
+    background-color:yellowgreen;
+    margin: 20px;
+    border: 20%;
+    border-radius:30px;
+    padding: 50px;
+}
+
+#reservation input {
+width:100%;
+}
+
+
+.knowing{
+    background-color: rgb(139, 183, 6);
+    margin: 20px;
+    border: 20%;
+    border-radius:30px;
+    padding: 50px;
+}
+
+footer{
+    background-color: chocolate;
+    margin: 20px;
+    border: 20%;
+    border-radius:30px;
+    padding: 20px;
+    font-weight:bold;
+    font-size:large 20px;
+    text-align:center ;
+}
+
+a {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+a:hover {
+     color:red;
+}
+
+h2{
+text-decoration: double;
+
+}
+
+
+
+.links{
+list-style: none;
+justify-content: space-evenly;
+margin-left: 100px;
+display:flex;
+padding: 20px;
+color: wheat;
+margin-right: 20px;
+background-color: white;
+
+}
+
+
+
+
+
+
+
+
